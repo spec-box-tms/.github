@@ -1,0 +1,9 @@
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+Desktop.ini
+
+# Linux specific files
+*.swp
